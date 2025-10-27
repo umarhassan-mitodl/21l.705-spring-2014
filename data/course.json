@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ]
+  ],
+  "legacy_uid": "a5ea16af-873b-02db-9874-07d4b5d3206b",
+  "instructors": {
+    "content": [
+      "8c521847-16f5-21bc-8408-5eac239a4f7d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0fcee92a-489b-f294-cf44-6a142cd8c14a",
+    "website": "21l-705-major-authors-old-english-and-beowulf-spring-2014"
+  },
+  "course_title": "Major Authors: Old English and Beowulf",
+  "course_description": "h\u01bf\u00e6t \u01bfe gardena in geardagum \u00feeodcyninga \u00ferym gefrunon hu \u00f0a \u00e6\u00feelingas ellen fremedon\u2026. Those are the first words of the Old English epic _Beowulf_, and in this class you will learn to read them.\n\nBesides being the language of Rohan in the novels of Tolkien, Old English (also called Anglo-Saxon) is a language of long, cold, and lonely winters; of haunting beauty found in unexpected places; and of unshakable resolve in the face of insurmountable odds.\n\nIt is, in short, the perfect language for MIT students.\n\nAfter learning the basics of grammar and vocabulary, we will read not just excerpts from the great _Beowulf_ but also heartrending laments (_The Wanderer, The Wife's Lament_), an account of the Crucifixion as narrated by the Cross itself (_The Dream of the Rood_), and a host of riddles whose solutions range from the sacred to the obscene but are always ingenious. We will also try our hand at composing our own sentences\u2014and maybe even poems\u2014in Old English.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.705",
+  "course_image_thumbnail": {
+    "content": "83064ffa-bd6e-55d1-197b-416b3aad63d9",
+    "website": "21l-705-major-authors-old-english-and-beowulf-spring-2014"
+  },
+  "learning_resource_types": [
+    "Demonstration Videos",
+    "Exams with Solutions",
+    "Instructor Insights"
+  ],
+  "site_uid": "28e1c57f-e885-4f56-8f2f-442e9d707d01",
+  "site_short_id": "21l.705-spring-2014",
+  "site_url_path": "courses/21l-705-major-authors-old-english-and-beowulf-spring-2014",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,37 @@
+leftnav:
+- identifier: c0470f4a-7c79-c6cb-2930-bf7882a832bd
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d6622cc2-6845-757f-5af5-01b8fa233489
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: aa6f2c54-1cf8-eb59-3cde-25b7c193c7ec
+  name: Curricular Scope and Sequence
+  pageRef: /pages/instructor-insights/curricular-scope-and-sequence
+  parent: d6622cc2-6845-757f-5af5-01b8fa233489
+  weight: 30
+- identifier: f613adc4-5c82-4790-31b8-f5d7654b56d9
+  name: Choice of Textbook
+  pageRef: /pages/instructor-insights/choice-of-textbook
+  parent: d6622cc2-6845-757f-5af5-01b8fa233489
+  weight: 40
+- identifier: 37e79143-0953-aebc-54a1-16f0491b70af
+  name: Assessment
+  pageRef: /pages/instructor-insights/assessment
+  parent: d6622cc2-6845-757f-5af5-01b8fa233489
+  weight: 50
+- identifier: b5e14be3-e5a9-d990-e967-9b34e58fc8e0
+  name: Developing Rapport with Students
+  pageRef: /pages/instructor-insights/developing-rapport-with-students
+  parent: d6622cc2-6845-757f-5af5-01b8fa233489
+  weight: 60
+- identifier: 5b96ea0a-222d-4121-0e2a-9c7d8b2223bc
+  name: Readings
+  pageRef: /pages/readings
+  weight: 70
+- identifier: 819a8492-f73a-35f2-9ffc-c2f6a80b2d0b
+  name: Exams
+  pageRef: /pages/exams
+  weight: 80
